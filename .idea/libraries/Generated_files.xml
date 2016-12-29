@@ -8,6 +8,7 @@
         <item url="file://$PROJECT_DIR$/app/components/Countdown.js" />
         <item url="file://$PROJECT_DIR$/app/components/CountdownForm.js" />
         <item url="file://$PROJECT_DIR$/app/tests/components/CountdownForm.test.js" />
+        <item url="file://$PROJECT_DIR$/app/tests/components/Countdown.test.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
@@ -17,6 +18,7 @@
       <root url="file://$PROJECT_DIR$/app/components/Countdown.js" />
       <root url="file://$PROJECT_DIR$/app/components/CountdownForm.js" />
       <root url="file://$PROJECT_DIR$/app/tests/components/CountdownForm.test.js" />
+      <root url="file://$PROJECT_DIR$/app/tests/components/Countdown.test.js" />
     </CLASSES>
     <SOURCES />
   </library>
