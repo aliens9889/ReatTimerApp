@@ -2,29 +2,31 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/app/components/CountdownForm.js" />
+        <item url="file://$PROJECT_DIR$/app/tests/components/CountdownForm.test.js" />
+        <item url="file://$PROJECT_DIR$/app/tests/components/Timer.test.js" />
+        <item url="file://$PROJECT_DIR$/app/components/Controls.js" />
+        <item url="file://$PROJECT_DIR$/app/tests/components/Controls.test.js" />
+        <item url="file://$PROJECT_DIR$/app/tests/components/Countdown.test.js" />
         <item url="file://$PROJECT_DIR$/app/components/Clock.js" />
         <item url="file://$PROJECT_DIR$/app/tests/components/Clock.test.js" />
         <item url="file://$PROJECT_DIR$/app/components/Timer.js" />
         <item url="file://$PROJECT_DIR$/app/components/Countdown.js" />
-        <item url="file://$PROJECT_DIR$/app/components/CountdownForm.js" />
-        <item url="file://$PROJECT_DIR$/app/tests/components/CountdownForm.test.js" />
-        <item url="file://$PROJECT_DIR$/app/components/Controls.js" />
-        <item url="file://$PROJECT_DIR$/app/tests/components/Controls.test.js" />
-        <item url="file://$PROJECT_DIR$/app/tests/components/Countdown.test.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/app/components/Control.js" />
       <root url="file://$PROJECT_DIR$/app/components/Control.js" />
+      <root url="file://$PROJECT_DIR$/app/components/CountdownForm.js" />
+      <root url="file://$PROJECT_DIR$/app/tests/components/CountdownForm.test.js" />
+      <root url="file://$PROJECT_DIR$/app/tests/components/Timer.test.js" />
+      <root url="file://$PROJECT_DIR$/app/components/Controls.js" />
+      <root url="file://$PROJECT_DIR$/app/tests/components/Controls.test.js" />
+      <root url="file://$PROJECT_DIR$/app/tests/components/Countdown.test.js" />
       <root url="file://$PROJECT_DIR$/app/components/Clock.js" />
       <root url="file://$PROJECT_DIR$/app/tests/components/Clock.test.js" />
       <root url="file://$PROJECT_DIR$/app/components/Timer.js" />
       <root url="file://$PROJECT_DIR$/app/components/Countdown.js" />
-      <root url="file://$PROJECT_DIR$/app/components/CountdownForm.js" />
-      <root url="file://$PROJECT_DIR$/app/tests/components/CountdownForm.test.js" />
-      <root url="file://$PROJECT_DIR$/app/components/Controls.js" />
-      <root url="file://$PROJECT_DIR$/app/tests/components/Controls.test.js" />
-      <root url="file://$PROJECT_DIR$/app/tests/components/Countdown.test.js" />
     </CLASSES>
     <SOURCES />
   </library>
